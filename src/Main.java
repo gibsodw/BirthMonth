@@ -27,6 +27,5 @@ public class Main
             System.out.println("Rerun the program and do proper input. ");
         }
 
-
     }
 }
